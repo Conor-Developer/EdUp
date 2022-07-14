@@ -2,6 +2,8 @@
 
 ![Screenshot](https://i.imgur.com/cUOGM1Y.png)
 
+Click here for the live site: https://edup-schools.herokuapp.com/
+
 ## Task
 
 [Welcome to Ed Up!](https://edup-schools.herokuapp.com/)
